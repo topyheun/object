@@ -1,4 +1,4 @@
-package topy.object.chapter01;
+package topy.object;
 
 import java.util.ArrayList;
 import java.util.Arrays;

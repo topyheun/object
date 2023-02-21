@@ -1,4 +1,4 @@
-package topy.object.chapter01;
+package topy.object;
 
 import java.time.LocalDateTime;
 

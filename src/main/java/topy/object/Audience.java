@@ -1,4 +1,4 @@
-package topy.object.chapter01;
+package topy.object;
 
 // 관객
 public class Audience {
