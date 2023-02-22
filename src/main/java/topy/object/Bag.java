@@ -1,11 +1,8 @@
 package topy.object;
 
-import lombok.Setter;
-
 public class Bag {
     private Long amount;
     private Invitation invitation;
-    @Setter
     private Ticket ticket;
 
     public Long hold(Ticket ticket) {
@@ -17,6 +14,10 @@ public class Bag {
             minusAmount(ticket.getFee());
             return ticket.getFee();
         }
+    }
+
+    public void setTicket(Ticket ticket) {
+        this.ticket = ticket;
     }
 
     private boolean hasInvitation() {
