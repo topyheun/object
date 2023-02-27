@@ -1,4 +1,4 @@
-package topy.object;
+package topy.object.index01;
 
 public class TicketSeller {
     private TicketOffice ticketOffice;
