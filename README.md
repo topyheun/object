@@ -1,5 +1,3 @@
-### 오브젝트 - 코드로 이해하는 객체지향 설계 (조영호)
+# 오브젝트 - 코드로 이해하는 객체지향 설계
 
-> 학습한 내용과 느낀점을 **Issue**로 등록하여 정리하는 Repository입니다.
->
-> [**[ Issue 목록 ]**](https://github.com/topyheun/object/issues) ㅤ←ㅤ Click 
+기술 서적인 오브젝트를 읽고, 학습한 내용과 느낀점을 [**[ Issue ]**](https://github.com/topyheun/object/issues)로 등록하여 정리하는 프로젝트입니다.
